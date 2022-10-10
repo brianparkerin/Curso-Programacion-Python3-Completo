@@ -5,7 +5,7 @@
 
 booleanos = [False, True]
 
-print('X\tY\tX or Y')
+print('X\t      Y\t     X or Y')
 print('_'*26)
 
 for X in booleanos:

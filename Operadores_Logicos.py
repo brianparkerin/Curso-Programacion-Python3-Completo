@@ -76,4 +76,18 @@ print(solve_3)
 # False year and altura False = False
 
 
+#________________________________________________________
+
+# Ejemplo de logica:
+
+
+#  E                               A
+# pintar la Casa      ||      Bañarse
+# <expresion_1>      ||      <expresion_2>
+
+# Falsa             ^          Verdadera    
+
+>>>> Falso
+
+
 
